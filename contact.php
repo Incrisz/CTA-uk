@@ -261,7 +261,7 @@
             <h1 class="font-lora font-24 lineh-24 weight-600 color">Send us a Message</h1>
             <!-- <p class="font-ks font-16 lineh-26 weight-500 color margin-t">As a fellow small business owner, we know the fulfillment that an a comes from running your own business contact to Financy.</p> -->
           </div>
-          <form id="contact-form" action="/mail.php" method="POST">
+          <form id="contact-form" action="mail.php" method="POST">
 
           <div class="contac5-input5area">
             <div class="row">
