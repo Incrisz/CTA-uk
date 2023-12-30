@@ -11,13 +11,13 @@
         <link rel="stylesheet" href="assets/css/plugins/swiper.bundle.css">
         <link rel="stylesheet" href="assets/css/plugins/font-awesome-pro.css">
         <link rel="stylesheet" href="assets/files/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-        <link rel="preconnect" href="assets/files/fonts.googleapis.com/index.html">
+        <link rel="preconnect" href="assets/files/fonts.googleapis.com/index.php">
         <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
         <link rel="stylesheet" href="assets/css/plugins/owl.carousel.min.css">
         <link rel="stylesheet" href="assets/css/plugins/modal-video.min.css">
         <link href="assets/files/unpkg.com/aos%402.3.1/dist/aos.css" rel="stylesheet">
-        <link rel="preconnect" href="assets/files/fonts.googleapis.com/index.html">
-        <link rel="preconnect" href="assets/files/fonts.gstatic.com/index.html" crossorigin>
+        <link rel="preconnect" href="assets/files/fonts.googleapis.com/index.php">
+        <link rel="preconnect" href="assets/files/fonts.gstatic.com/index.php" crossorigin>
         <link href="assets/files/fonts.googleapis.com/css26cec.css?family=Kumbh+Sans:wght@400;500;600;700;800&amp;family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;family=Nunito+Sans:ital,opsz,wght@0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900&amp;family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&amp;family=Outfit:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
         <link rel="stylesheet" href="assets/css/plugins/mobile.css">
         <link rel="stylesheet" href="assets/css/plugins/aos.css">
@@ -66,21 +66,21 @@
         <div class="col-12">
           <div class="header-elements">
             <div class="site-logo">
-              <a href="index.html"><img src="assets/images/logo/logo15.png" alt=""></a>
+              <a href="index.php"><img src="assets/images/logo/logo15.png" alt=""></a>
             </div>
             <div class="main-menu-ex homepage4 main-menu-ex7">
               
               <ul>
-                  <li class="mega-dropdawn"><a href="index.html">Home </a> 
+                  <li class="mega-dropdawn"><a href="index.php">Home </a> 
                    
                 </li>
-                <li><a href="about.html" class="font-ks font-16 weight-500 color">About Us</a></li>
-          <li><a href="team.html" class="font-ks font-16 weight-500 color">Our-Team </a></li>          <li><a href="services.html" class="font-ks font-16 weight-500 color">Services </a></li>
+                <li><a href="about.php" class="font-ks font-16 weight-500 color">About Us</a></li>
+          <li><a href="team.php" class="font-ks font-16 weight-500 color">Our-Team </a></li>          <li><a href="services.php" class="font-ks font-16 weight-500 color">Services </a></li>
 
           
         
              
-                           <li><a href="contact.html" class="font-ks font-16 weight-500 color">Contact</a></li>
+                           <li><a href="contact.php" class="font-ks font-16 weight-500 color">Contact</a></li>
 
                 
               </ul>
@@ -88,7 +88,7 @@
             
             <div class="contact-3 d-lg-block d-none">
               <div class="shecdule-btn1">
-                  <a href="contact.html" class="font-ks font-16 lineh-16 color weight-700 shedule-btn2">Schedule Consulation <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                  <a href="contact.php" class="font-ks font-16 lineh-16 color weight-700 shedule-btn2">Schedule Consulation <span><i class="fa-solid fa-arrow-right"></i></span></a>
               </div>
             </div>
           </div>
@@ -105,7 +105,7 @@
     <div class="col-12">
       <div class="mobile-header-elements">
         <div class="mobile-logo">
-          <a href="index.html"><img src="assets/images/logo/logo15.png" alt=""></a>
+          <a href="index.php"><img src="assets/images/logo/logo15.png" alt=""></a>
         </div>
         <div class="mobile-nav-icon dots-menu">
           <i class="fa-solid fa-bars"></i>
@@ -127,20 +127,20 @@
   <div class="mobile-nav">
 
     <ul class="mobile-nav-list">
-      <li><a href="index.html" class="font-ks font-16 weight-500 color">Home </a>
+      <li><a href="index.php" class="font-ks font-16 weight-500 color">Home </a>
       
       </li>
 
-      <li><a href="about.html" class="font-ks font-18 weight-600 color">About</a></li>
+      <li><a href="about.php" class="font-ks font-18 weight-600 color">About</a></li>
 
-    <li><a href="services.html" class="font-ks font-16 weight-500 color">Our Services</a> 
+    <li><a href="services.php" class="font-ks font-16 weight-500 color">Our Services</a> 
    
     </li>
 
-      <li><a href="team.html" class="font-ks font-16 weight-500 color">Our-Team </a>
+      <li><a href="team.php" class="font-ks font-16 weight-500 color">Our-Team </a>
       
       </li>  
-       <li><a href="contact.html" class="font-ks font-16 weight-500 color">Contact </a>
+       <li><a href="contact.php" class="font-ks font-16 weight-500 color">Contact </a>
       
       </li>
  
@@ -217,7 +217,7 @@
         <div class="col-lg-12">
             <div class="welcomeaboiut2 text-center">
                 <h1 class="font-lora font-60 lineh-64 weight-500 color margin-b24">About US</h1>
-                <p class="font-20 weight-500 font-ks lineh-20 color"><a href="index.html" class="color">Home</a><span><i class="fa-solid fa-angle-right"></i></span> About Us</p>
+                <p class="font-20 weight-500 font-ks lineh-20 color"><a href="index.php" class="color">Home</a><span><i class="fa-solid fa-angle-right"></i></span> About Us</p>
             </div>
         </div>
     </div>
@@ -275,7 +275,7 @@
             </div>
           </div>
         </div>
-        <a href="about.html" class="theme6-btn6 font-ks lineh-16 weight-700 color font-16 margin-t32">About Us <span><i class="fa-solid fa-arrow-right"></i></span></a>
+        <a href="about.php" class="theme6-btn6 font-ks lineh-16 weight-700 color font-16 margin-t32">About Us <span><i class="fa-solid fa-arrow-right"></i></span></a>
       </div>
       </div>
     </div>
@@ -298,7 +298,7 @@
                       
                     </p>
                     <p class="font-ks font-16 weight-500 lineh-26 color-30">  Save Time : You don’t have to do all the tasks yourself, we can help you deal with the company’s most important obligations.</p>
-                    <a href="team.html" class="theme6-btn6 font-ks lineh-16 weight-700 color font-16 margin-t32">Meet Our Attorneys <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                    <a href="team.php" class="theme6-btn6 font-ks lineh-16 weight-700 color font-16 margin-t32">Meet Our Attorneys <span><i class="fa-solid fa-arrow-right"></i></span></a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -360,7 +360,7 @@
                         <li class="font-ks font-16 lineh-16 weight-600 color-17 margin-b20"><span><img src="assets/images/icons/check1.png" alt=""></span>Warning of updated legal risks for customers</li>
                         <li class="font-ks font-16 lineh-16 weight-600 color-17"><span><img src="assets/images/icons/check1.png" alt=""></span>A team of experienced and highly specialized</li>
                     </ul>
-                    <a href="services.html" class="theme6-btn6 font-ks lineh-16 weight-700 color font-16 margin-t32">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                    <a href="services.php" class="theme6-btn6 font-ks lineh-16 weight-700 color font-16 margin-t32">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
                 </div>
             </div>
         </div>
@@ -415,7 +415,7 @@ Professionalism</p>
                         </div>
                       </div>
                   </div>
-                      <a href="services.html" class="theme6-btn6 font-ks lineh-16 weight-700 color font-16 margin-t32">Get Started Now <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                      <a href="services.php" class="theme6-btn6 font-ks lineh-16 weight-700 color font-16 margin-t32">Get Started Now <span><i class="fa-solid fa-arrow-right"></i></span></a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -448,8 +448,8 @@ Professionalism</p>
       <div class="col-lg-2"></div>
       <div class="col-lg-4">
         <div class="cta5-btn5-sexction">
-            <a href="contact.html" class="theme6-btn6 bakgrnd5 font-ks lineh-16 weight-700 color font-16">Get Law Advice <span><i class="fa-solid fa-arrow-right"></i></span></a>
-            <a href="contact.html" class="theme6-btn6 backgrnd6 font-ks lineh-16 weight-700 color-29 font-16">Contact Us <span><i class="fa-solid fa-arrow-right"></i></span></a>
+            <a href="contact.php" class="theme6-btn6 bakgrnd5 font-ks lineh-16 weight-700 color font-16">Get Law Advice <span><i class="fa-solid fa-arrow-right"></i></span></a>
+            <a href="contact.php" class="theme6-btn6 backgrnd6 font-ks lineh-16 weight-700 color-29 font-16">Contact Us <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
     </div>
@@ -483,11 +483,11 @@ Professionalism</p>
                 <div class="about-5-links">
                 <h1 class="font-20 font-lora weight-600 lineh-20 color">About Link</h1>
                 <ul>
-                  <li><a href="about.html" class="font-ks font-16 lineh-16 weight-500 color32 d-inline-block margin-t32">About Us</a></li>
+                  <li><a href="about.php" class="font-ks font-16 lineh-16 weight-500 color32 d-inline-block margin-t32">About Us</a></li>
                   <li><a href="#" class="font-ks font-16 lineh-16 weight-500 color32 margin-t d-inline-block"></a></li>
-                  <li><a href="services.html" class="font-ks font-16 lineh-16 weight-500 color32 margin-t d-inline-block">Services</a></li>
+                  <li><a href="services.php" class="font-ks font-16 lineh-16 weight-500 color32 margin-t d-inline-block">Services</a></li>
                   <li><a href="#" class="font-ks font-16 lineh-16 weight-500 color32 margin-t d-inline-block">Our-Team</a></li>
-                  <li><a href="contact.html" class="font-ks font-16 lineh-16 weight-500 color32 margin-t d-inline-block">Contact Us</a></li>
+                  <li><a href="contact.php" class="font-ks font-16 lineh-16 weight-500 color32 margin-t d-inline-block">Contact Us</a></li>
                 </ul>
               </div>
             </div>

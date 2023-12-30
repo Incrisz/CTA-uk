@@ -11,13 +11,13 @@
         <link rel="stylesheet" href="assets/css/plugins/swiper.bundle.css">
         <link rel="stylesheet" href="assets/css/plugins/font-awesome-pro.css">
         <link rel="stylesheet" href="assets/files/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-        <link rel="preconnect" href="assets/files/fonts.googleapis.com/index.html">
+        <link rel="preconnect" href="assets/files/fonts.googleapis.com/index.php">
         <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
         <link rel="stylesheet" href="assets/css/plugins/owl.carousel.min.css">
         <link rel="stylesheet" href="assets/css/plugins/modal-video.min.css">
         <link href="assets/files/unpkg.com/aos%402.3.1/dist/aos.css" rel="stylesheet">
-        <link rel="preconnect" href="assets/files/fonts.googleapis.com/index.html">
-        <link rel="preconnect" href="assets/files/fonts.gstatic.com/index.html" crossorigin>
+        <link rel="preconnect" href="assets/files/fonts.googleapis.com/index.php">
+        <link rel="preconnect" href="assets/files/fonts.gstatic.com/index.php" crossorigin>
         <link href="assets/files/fonts.googleapis.com/css26cec.css?family=Kumbh+Sans:wght@400;500;600;700;800&amp;family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;family=Nunito+Sans:ital,opsz,wght@0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900&amp;family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&amp;family=Outfit:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
         <link rel="stylesheet" href="assets/css/plugins/mobile.css">
         <link rel="stylesheet" href="assets/css/plugins/aos.css">
@@ -67,20 +67,20 @@
           <div class="col-12">
             <div class="header-elements">
               <div class="site-logo">
-                <a href="index1.html"><img src="assets/images/logo/logo15.png" alt=""></a>
+                <a href="index1.php"><img src="assets/images/logo/logo15.png" alt=""></a>
               </div>
               <div class="main-menu-ex  homepage10 homepage7 ">
                 <ul>
-                  <li class="mega-dropdawn"><a href="index.html">Home  </a> 
+                  <li class="mega-dropdawn"><a href="index.php">Home  </a> 
                   
                 </li>
-                  <li><a href="about.html" class="font-ks font-16 weight-500 color">About Us</a></li>
-                  <li><a href="team.html" class="font-ks font-16 weight-500 color">Our-Team</a> </li>
+                  <li><a href="about.php" class="font-ks font-16 weight-500 color">About Us</a></li>
+                  <li><a href="team.php" class="font-ks font-16 weight-500 color">Our-Team</a> </li>
 
-            <li><a href="services.html" class="font-ks font-16 weight-500 color">Our Services </a> </li>
+            <li><a href="services.php" class="font-ks font-16 weight-500 color">Our Services </a> </li>
    
            
-                  <li><a href="contact.html" class="font-ks font-16 weight-500 color">Contact </a>
+                  <li><a href="contact.php" class="font-ks font-16 weight-500 color">Contact </a>
                
                   </li>
                   
@@ -89,7 +89,7 @@
               
               <div class="contact-3 d-lg-block d-none">
                 <div class="shecdule-btn1">
-                    <a href="contact.html" class="font-ks font-16 lineh-16 color weight-700 solutions10">Book an Appointment <span><img src="assets/images/icons/arrowben.svg" alt=""></span></a>
+                    <a href="contact.php" class="font-ks font-16 lineh-16 color weight-700 solutions10">Book an Appointment <span><img src="assets/images/icons/arrowben.svg" alt=""></span></a>
                 </div>
               </div>
             </div>
@@ -105,7 +105,7 @@
       <div class="col-12">
         <div class="mobile-header-elements">
           <div class="mobile-logo">
-            <a href="index.html"><img src="assets/images/logo/logo15.png" alt=""></a>
+            <a href="index.php"><img src="assets/images/logo/logo15.png" alt=""></a>
           </div>
           <div class="mobile-nav-icon dots-menu">
             <i class="fa-solid fa-bars"></i>
@@ -127,17 +127,17 @@
     <div class="mobile-nav">
 
       <ul class="mobile-nav-list">
-        <li><a href="index.html" class="font-ks font-16 weight-500 color">Home </a>
+        <li><a href="index.php" class="font-ks font-16 weight-500 color">Home </a>
         
         </li>
 
-        <li><a href="about.html" class="font-ks font-18 weight-600 color">About</a></li>
+        <li><a href="about.php" class="font-ks font-18 weight-600 color">About</a></li>
 
-        <li><a href="team.html" class="font-ks font-18 weight-600 color">Our-Team</a></li>
+        <li><a href="team.php" class="font-ks font-18 weight-600 color">Our-Team</a></li>
 
       <li><a href="#" class="font-ks font-16 weight-500 color">Our Services</a> 
       </li>
-      <li><a href="contact.html" class="font-ks font-18 weight-600 color">Contact</a></li>
+      <li><a href="contact.php" class="font-ks font-18 weight-600 color">Contact</a></li>
 
   
       </ul>
@@ -218,7 +218,7 @@
                         <h1 class="font-lora font-48 lineh-54 weight-600 color margin-b24" data-aos="fade-right" data-aos-duration="1000">Proven Tax and Business Strategies Success</h1>
                         <p class="font-ks font-16 weight-500 color opacity2 lineh-26">With years of experience and a deep understanding of <br> various Tax and Business sectors, including health, property.</p>
                         <div class="div" data-aos="fade-up" data-aos-duration="1200">
-                            <a href="contact.html" class="font-16 font-ks weight-700 color lineh-16 homepagebtn10 d-inline-block margin-t32 ts">Explore Your Tax and Business <span><img src="assets/images/icons/arrowben.svg" alt="" class="ts"></span></a>
+                            <a href="contact.php" class="font-16 font-ks weight-700 color lineh-16 homepagebtn10 d-inline-block margin-t32 ts">Explore Your Tax and Business <span><img src="assets/images/icons/arrowben.svg" alt="" class="ts"></span></a>
                         </div>
                 </div>
             </div>
@@ -315,7 +315,7 @@
                             </div>
                         </div>
                         <div class="divarea" data-aos="fade-up" data-aos-duration="1200">
-                            <a href="about.html" class="font-16 font-ks weight-700 color lineh-16 homepagebtn10 d-inline-block margin-t32 ts">Learn more <span><img src="assets/images/icons/arrowben.svg" alt="" class="ts"></span></a>
+                            <a href="about.php" class="font-16 font-ks weight-700 color lineh-16 homepagebtn10 d-inline-block margin-t32 ts">Learn more <span><img src="assets/images/icons/arrowben.svg" alt="" class="ts"></span></a>
                             <div>
                                 <div class="callicon ts">
                                     <div class="textcall-icon ts">
@@ -588,8 +588,8 @@
       <div class="col-lg-1"></div>
       <div class="col-lg-5">
         <div class="cta10-btnarea">
-          <a href="contact.html" class="font-ks font-16 lineh-16 color weight-700 solutions11">Schedule an Apointment <span><img src="assets/images/icons/arrowgreen.svg" alt=""></span></a>
-          <a href="contact.html" class="font-ks font-16 lineh-16 color-h10 weight-700 solutions12">Contact Us <span><img src="assets/images/icons/arrowgreen.svg" alt=""></span></a>
+          <a href="contact.php" class="font-ks font-16 lineh-16 color weight-700 solutions11">Schedule an Apointment <span><img src="assets/images/icons/arrowgreen.svg" alt=""></span></a>
+          <a href="contact.php" class="font-ks font-16 lineh-16 color-h10 weight-700 solutions12">Contact Us <span><img src="assets/images/icons/arrowgreen.svg" alt=""></span></a>
         </div>
       </div>
     </div>
@@ -622,12 +622,12 @@
               <div class="about-5-links footer10links about40links">
                 <h1 class="font-20 font-lora weight-600 lineh-20 color39">About Link</h1>
                 <ul>
-                  <li><a href="about.html" class="font-ks font-16 lineh-16 weight-500 color-p10 d-inline-block margin-t32">About Us</a></li>
+                  <li><a href="about.php" class="font-ks font-16 lineh-16 weight-500 color-p10 d-inline-block margin-t32">About Us</a></li>
                   <li><a href="#" class="font-ks font-16 lineh-16 weight-500 color-p10 margin-t d-inline-block"></a></li>
-                  <li><a href="services.html" class="font-ks font-16 lineh-16 weight-500 color-p10 margin-t d-inline-block">Services</a></li>
-                  <li><a href="casestudy1.html" class="font-ks font-16 lineh-16 weight-500 color-p10 margin-t d-inline-block">Case Studies</a></li>
+                  <li><a href="services.php" class="font-ks font-16 lineh-16 weight-500 color-p10 margin-t d-inline-block">Services</a></li>
+                  <li><a href="casestudy1.php" class="font-ks font-16 lineh-16 weight-500 color-p10 margin-t d-inline-block">Case Studies</a></li>
               
-                  <li><a href="contact.html" class="font-ks font-16 lineh-16 weight-500 color-p10 margin-t d-inline-block">Contact Us</a></li>
+                  <li><a href="contact.php" class="font-ks font-16 lineh-16 weight-500 color-p10 margin-t d-inline-block">Contact Us</a></li>
                 </ul>
               </div>
             </div>
